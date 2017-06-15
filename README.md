@@ -12,8 +12,8 @@
 
 ## PROCEDURE:-
 
-*Download the drivers zip and place it on sd card
-*Reboot phone into recovery mode
-*Flash the zip
-*Reboot!!
-*Done  !!
+* Download the drivers zip and place it on sd card
+* Reboot phone into recovery mode
+* Flash the zip
+* Reboot!!
+* Done  !!
