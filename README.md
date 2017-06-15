@@ -20,7 +20,9 @@
 
 ## SCREENSHOT:-
 
+
 ![alt text](https://forum.xda-developers.com/attachment.php?attachmentid=2095939&d=1373086581 "ANTUTU BENCHMARK SCORE")
 
-please visit [XDA Forum link](https://forum.xda-developers.com/showpost.php?p=43307090) for discussion on this work.
+
+### Please visit [XDA Forum link](https://forum.xda-developers.com/showpost.php?p=43307090) for discussion on this work.
 
