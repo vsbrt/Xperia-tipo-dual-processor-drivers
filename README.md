@@ -10,7 +10,7 @@
 * CWM/TWRP custom recovery
 
 
-## PROCEDURE:-
+## INSTALLATION PROCEDURE:-
 
 * Download the drivers zip and place it on sd card
 * Reboot phone into recovery mode
