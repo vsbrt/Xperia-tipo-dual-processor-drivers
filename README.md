@@ -2,7 +2,7 @@
 
 >This zip is the driver for snap dragon S1 processor with ADRENO GPU ~~which was released recently~~ ( not included in stock ROM). I've just flashed these drivers and found my phone being more fluid and achievd a better bench mark score of 5k+.
 
-### works only with ICS devices!!!!
+### works only with ICS (android 4.0.4) devices!!!!
 
 ## PREQUISITES:-
 
