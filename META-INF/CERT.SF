@@ -1,0 +1,157 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: cwTESuukWwsT/Q60h6h+pYvJ4fE=
+
+Name: system/usr/xt9/SEMC_810_r1-21_ITusUN_xt9_2.ldb
+SHA1-Digest: NFx+8krUzF7R7BHaTFInLTqgtUI=
+
+Name: system/lib/libXT9Engine.so
+SHA1-Digest: h1alCSf1NyGuZ4HYsmc0yKt124o=
+
+Name: system/usr/xt9/SEMC_810_r1-3_BSlsUN_xt9.ldb
+SHA1-Digest: 7oyvYlBbk7oUpzhsVXQVIvcTXOY=
+
+Name: system/usr/xt9/SEMC_810_r1-3_MKlsUN_xt9.ldb
+SHA1-Digest: KAFQ+Zi8Hm8iAFxCGk+uOR8NRN4=
+
+Name: system/usr/xt9/SEMC_811_r1-4-10-1_PTusUN_xt9_2.ldb
+SHA1-Digest: IlqdCE7EIDF4MfJXWYOiOlyp7O8=
+
+Name: system/usr/xt9/SEMC_810_r1-2_JWlsUN_xt9.ldb
+SHA1-Digest: waF4mzsbYG2oU6csU+yAi04QDFk=
+
+Name: system/usr/xt9/SEMC_810_r1-4_MSlbUN_xt9.ldb
+SHA1-Digest: EsSMnfJ1U1GOxDlCA8dd3XSYHes=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: /S3I/cM/5LUv6UPr8ZTXPuMOHzU=
+
+Name: system/usr/xt9/SEMC_810_r1-9_LTlsUN_xt9.ldb
+SHA1-Digest: Vht7T9tIg90Y04Xu1Gxh3ZU0zZ4=
+
+Name: system/usr/xt9/SEMC_810_r1-4_RUlsUN_xt9.ldb
+SHA1-Digest: GdXrFd/yx8ePqioQM9Ma+aBhMrY=
+
+Name: system/usr/xt9/SEMC_810_r1-5_CSlsUN_xt9.ldb
+SHA1-Digest: GHnIP9YSPnZ52L73fRS5qC4oRrs=
+
+Name: system/usr/xt9/SEMC_810_r1-2_ELusUN_xt9.ldb
+SHA1-Digest: zMDj2E/7fmVAslZ4WPXncFaBpoE=
+
+Name: system/usr/xt9/SEMC_810_r1-9_LVlsUN_xt9.ldb
+SHA1-Digest: 0TQw9d8zY3D+pZAspcsoquxRZJY=
+
+Name: system/usr/xt9/SEMC_810_r1-3_UKlsUN_xt9.ldb
+SHA1-Digest: GYAa3BruAfHgSMknVfDCj4YLGHo=
+
+Name: system/usr/xt9/SEMC_810_r1-5_HRlsUN_xt9.ldb
+SHA1-Digest: YG0UGAmCR6Nj+UF8W0VEQrwPh+A=
+
+Name: system/usr/xt9/SEMC_810_r1-3_VIlsUN_xt9.ldb
+SHA1-Digest: Qq6UwGszZJRpT8PizhLMzd8A/gw=
+
+Name: system/usr/xt9/SEMC_810_r1-26_FRusUN_xt9_2.ldb
+SHA1-Digest: GD1D63lK1v5PzlwI5w0JecOFSNQ=
+
+Name: system/usr/xt9/SEMC_810_r1-15_DEusUN_xt9_2.ldb
+SHA1-Digest: 7zjmFYrn7srCegA+jjzb5jeMv4w=
+
+Name: system/usr/xt9/SEMC_810_r1-17_FIusUN_xt9_2.ldb
+SHA1-Digest: Drs/5N4ge4H7qQYj2yQdSsGEG7Q=
+
+Name: system/usr/xt9/SEMC_810_r1-3_THlsUN_xt9.ldb
+SHA1-Digest: yEuGpRUEwwsTirUX52TLQeNOOow=
+
+Name: system/usr/xt9/SEMC_810_r1-5_HUlsUN_xt9.ldb
+SHA1-Digest: MYRfjz6UXYqyTkXeNiefDYsQxB4=
+
+Name: system/usr/textinput/config.xml
+SHA1-Digest: ui+rdk3jlF5k1afMHpAslIYXteI=
+
+Name: system/usr/xt9/SEMC_810_r1-4_GLlsUN_xt9.ldb
+SHA1-Digest: 2QXATisOyN9A28YBysRsHDWjwns=
+
+Name: system/usr/xt9/SEMC_810_r1-3_HElsUN_xt9.ldb
+SHA1-Digest: Ou36SnQdr5uyQmvtb9IGknuIB8E=
+
+Name: system/usr/xt9/SEMC_810_r1-4_HLlbUN_xt9.ldb
+SHA1-Digest: RE+Yzh3PqxEiSQXZg6cQXIQJqpY=
+
+Name: system/usr/xt9/SEMC_810_r1-4_CAlsUN_xt9.ldb
+SHA1-Digest: KOM6WUeO+ZCAqEZfF7YP39OGpBU=
+
+Name: system/usr/xt9/SEMC_810_r1-2_DAusUN_xt9_2.ldb
+SHA1-Digest: HjpJ3Z/Hj5BCcfH8aB/tZ6w+vh0=
+
+Name: system/usr/xt9/SEMC_810_r1-5_ETlsUN_xt9.ldb
+SHA1-Digest: 3DD94AK+YDR1fE5op21AVDhAcgk=
+
+Name: system/usr/xt9/SEMC_810_r1-5_IDlbUN_xt9.ldb
+SHA1-Digest: qiM5nzv2MJfGCCOt3sBJ2z9e+J8=
+
+Name: system/usr/xt9/SEMC_810_r1-3_SQlsUN_xt9.ldb
+SHA1-Digest: jUhkf18ZxNt/aJdcLxfPWXkcYIo=
+
+Name: system/usr/xt9/SEMC_810_r1-5_SRlsUN_xt9.ldb
+SHA1-Digest: SKLyWYBIOaM8n3EtxETwohdOqS8=
+
+Name: system/usr/xt9/SEMC_810_r1-2_NOlsUN_xt9.ldb
+SHA1-Digest: v3W6RqGND3IWZ2rT33B/Q0U2S/U=
+
+Name: system/usr/xt9/SEMC_810_r1-5_TLlsUN_xt9.ldb
+SHA1-Digest: KCgQiSF9HL63JxPvp2Ps1hzdnO0=
+
+Name: system/usr/xt9/SEMC_810_r1-5_TRlsUN_xt9.ldb
+SHA1-Digest: 5iADH0p70pYlZb0s9u5z+mPC1C4=
+
+Name: system/usr/xt9/SEMC_810_r1-7_FAlsUN_xt9.ldb
+SHA1-Digest: uBIfr+GpKMGw1gURdNKSCZphyVM=
+
+Name: system/usr/xt9/SEMC_810_r1-3_KKlsUN_xt9.ldb
+SHA1-Digest: Pk+dH1L4ph211oRN2G5c7TAJcFE=
+
+Name: system/usr/xt9/SEMC_810_r1-4_ROlsUN_xt9.ldb
+SHA1-Digest: fDPvJhD3BoS5Ekv/WTZHTLZZJPY=
+
+Name: system/usr/xt9/SEMC_810_r1-4-12-1_SVusUN_xt9_2.ldb
+SHA1-Digest: 3CXct0XeD/DBhC7jJd/qy98VBBk=
+
+Name: system/usr/xt9/SEMC_810_r1-4_ISlsUN_xt9.ldb
+SHA1-Digest: YRUlGcrdy2sMXZNg5BlQeqrOpyc=
+
+Name: system/usr/xt9/SEMC_810_r1-5_SKlsUN_xt9.ldb
+SHA1-Digest: /nMIpuCXmVtTstG/S3Oy/334vOQ=
+
+Name: system/usr/xt9/SEMC_810_r1-5_SLlsUN_xt9.ldb
+SHA1-Digest: caO8cQh52ovysjtTuP5DZdV56i0=
+
+Name: system/app/MiuiKeyboard.apk
+SHA1-Digest: mHBIU/wg3ejRVuxDHnEOiH6/Djk=
+
+Name: system/usr/xt9/SEMC_810_r1-16_ESusUN_xt9_2.ldb
+SHA1-Digest: iRz2JKMRccMfUqds4HQ9RznsnC0=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CSZ7Gyg6X76HeNNSMKPZaNDGFlI=
+
+Name: system/usr/xt9/SEMC_810_r1-10_BGlsUN_xt9.ldb
+SHA1-Digest: /OXDhiwe//s4qr6vTMiIUbeee58=
+
+Name: system/usr/xt9/SEMC_810_r1-4_PLlsUN_xt9.ldb
+SHA1-Digest: YIZfg2XdeA4b8BsxD/gNAbdFPoc=
+
+Name: system/usr/xt9/SEMC_811_r1-3-10-1_NLusUN_xt9_2.ldb
+SHA1-Digest: CId6RHEXeP7mYbcyDdmaq7ZGmLw=
+
+Name: system/usr/xt9/SEMC_810_r1-4_EUlsUN_xt9.ldb
+SHA1-Digest: h6g7Z7af9n0E8pBm2SlaLx6RdGA=
+
+Name: system/usr/xt9/SEMC_810_r1-5_ARlsUN_xt9.ldb
+SHA1-Digest: 8BUTUBrj9/S7X00pEfVJhUj59o0=
+
+Name: system/usr/xt9/SEMC_810_r1-28_ENubUN_xt9_2.ldb
+SHA1-Digest: ln9pLjNQAklN7EwHcO20jmiNuOI=
+
+Name: system/usr/xt9/SEMC_810_r1-1_SUlsUN_xt9.ldb
+SHA1-Digest: MyNbakT+r+yC9JKf18UccXmVAbw=
+

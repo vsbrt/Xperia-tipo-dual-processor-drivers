@@ -1,0 +1,24 @@
+ui_print("===================================");
+ui_print("   Adreno Drivers by snapdragon   ");
+ui_print("===================================");
+ui_print("");
+ui_print("    PLS HIT THANKS    ");
+ui_print("");
+ui_print("  Enjoy! GUYS, by VSBRT  ");
+ui_print("");
+ui_print(" - Mounting System");
+run_program("/sbin/busybox", "mount", "/system");
+ui_print(" - Extracting Files");
+package_extract_dir("system", "/system");
+ui_print(" - Fixing Permissions");
+set_perm(0, 0, 0644, "/system/app/UxpNxtLockScreen.apk");
+set_perm(0, 0, 0644, "/system/app/settings.apk");
+set_perm(0, 0, 0644, "/system/framework/android.policy.jar");
+set_perm(0, 0, 0644, "/system/framework/framework-res.apk");
+ui_print(" - Unmounting System");
+run_program("/sbin/busybox", "umount", "/system");
+ui_print("===================================");
+ui_print("     Installation Complete         ");
+ui_print("===================================");
+ui_print("    DONT FORGET TO HIT THANKS      ");
+
